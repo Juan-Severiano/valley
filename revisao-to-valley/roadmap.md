@@ -2,9 +2,9 @@
 
 ## Git & Github 👌
 
-## HTML & CSS com Bootstrap5
+## HTML & CSS com Bootstrap5 👌
 
-## JavaScript to FrontEnd
+## JavaScript to FrontEnd 👌
 
 ## React JS
 
