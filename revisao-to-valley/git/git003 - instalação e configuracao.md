@@ -13,6 +13,9 @@ sudo apt-get update
 
 ## After
 sudo apt-get install git
+
+## Verificar se está instalado
+git --version
 ```
 
 ## Primeiras configurações [ **Universal** ]
