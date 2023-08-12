@@ -1,6 +1,6 @@
 # Roadmap das coisas que terão na valley:
 
-## Git & Github :verify
+## Git & Github 👌
 
 ## HTML & CSS com Bootstrap5
 
