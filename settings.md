@@ -9,6 +9,7 @@ zsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+
 # Instalar Spaceship Prompt
 # https://github.com/spaceship-prompt/spaceship-prompt
 
