@@ -1,0 +1,31 @@
+# Acordar 5h da manhã _
+# trocar o pneu do carro _
+
+# comer uma fruta direto da arvore
+# tomar uma sopa
+# tirar um gato de cima da arvore
+
+# 1
+abrir oz
+
+# 2
+
+
+# 3
+
+ir ate a arvore
+escolher a fruta
+tentar pegar
+caso consiga, comer
+caso não, escolher outra fruta e tentar novamente
+finnaly -> comer
+
+# 4
+
+partindo do presuposto que a sopa ja esta feita, e que  so falta coloca-la:
+pegar um prato, colher e concha
+levar ambos ate a panela
+colocar a sopa com a concha no prato
+levar o prato a mesa, com a colher
+colocar a colher no  prato, encher de sopa
+levar a boca

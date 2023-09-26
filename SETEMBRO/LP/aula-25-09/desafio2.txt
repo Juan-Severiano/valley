@@ -1,0 +1,47 @@
+# chupar uma bala
+
+pegar a bala
+descascar a bala
+colocar na boca
+chupar
+
+# somar 
+
+realizar a soma dos numeros e pegar o resultado
+
+# fazer um sanduiche
+
+pegar o pão
+pegar as misturas
+cortar o pão
+colocar as misturas dentro do pão
+
+ALGORITMO  -> ESTRUTURADO
+
+declare pão, misturas, sanduiche texto
+
+inicio
+
+pegar pão
+cortar pão
+pegar misturas
+sanduiche <- misturas dentro do pão
+retorna sanduiche
+
+fim algoritmo
+
+# sacar o dinheiro do caixa rápido
+
+ir ate o caixa
+colocar suas credenciais
+digita o valor a ser sacado
+receber o dinheiro
+
+# trocar uma lâmpada
+
+pegar uma escada
+ir com a escada ate a lampada a ser trocada
+subir na escada
+tirar a lampada antiga
+colocar a nova
+testar
