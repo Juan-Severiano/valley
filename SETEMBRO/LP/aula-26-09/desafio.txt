@@ -1,0 +1,48 @@
+# Acordar 5h da manhã _
+# trocar o pneu do carro _
+# comer uma fruta direto da arvore
+# tomar uma sopa
+# tirar um gato de cima da arvore
+
+
+declare pneuNovo, pneuAntigo, macaco, chaveRoda, carro texto
+
+
+INICIO 
+
+
+colocar macaco => carro
+levantar macaco
+pneuAntigo <= chaveRoda
+tirar pneuAntigo
+colocar pneuNovo
+chaveRoda => pneuNovo
+escreva "pneu trocado"
+
+FIM DO ALGORITMO
+
+
+
+declare fruta, arvore texto
+
+INICIO
+
+ir para arvore
+pegar fruta
+comer fruta
+escreva "fruta consumida"
+
+FIM DO ALGORITMO
+
+
+declare bala, embalagemBala texto
+
+INICIO
+
+
+bala => tirar embalagemBala
+consumir bala
+
+escreva "bala consumida"
+
+FIM DE ALGORITMO
