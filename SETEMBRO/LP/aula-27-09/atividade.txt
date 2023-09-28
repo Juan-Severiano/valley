@@ -1,0 +1,11 @@
+algoritmo bomDia
+
+variaveis: nome:string
+
+inicio
+
+escreva("Qual seu nome? ")
+leia nome
+escreva("Bom dia, ", nome, ", Seja bem vindo")
+
+fim do algoritmo

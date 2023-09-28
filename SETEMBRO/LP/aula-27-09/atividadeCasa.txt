@@ -1,0 +1,34 @@
+** faça um algoritmo com a lógica de computação que ajude um frentistta a abastecer um veiculo com o calculo final **
+
+variaveis: qtdeLitros, valorTotal, precoComb :number
+
+inicio
+
+precoComb = 5.82
+escreva("Quantos litros de gasolina você deseja? ")
+leia qtdeLitros
+valorTotal = qtdeLitros * precoComb
+escreva("O valor total do abastecimento foi de R$", valorTotal)
+
+fim
+
+
+variaveis: qtdeLitros, valorTotal, precoComb : real; respostaCliente inteiro
+
+inicio
+
+escreva("[ 1 ] para gasolina, [ 2 ] para alcool : ")
+leia respostaCliente
+escreva("Quantos litros de combustivel voce quer? ")
+leia qtdeLitros
+
+se respostaCliente == 1 entao
+    precoComb = 5,82  
+seNao entao
+    precoComb = 2,51
+fimSe
+
+valorTotal = precoComb * qtdeLitros
+escreva("O total foi de R$", valorTotal)
+
+fim
